@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/channel/UCbLiJz8Td-XTjIt-7wxnNpw">
   <img align="left" alt="Gourav's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://medium.com/@gouravhammad">
+<a href="https://medium.com/@gouravhammad477">
   <img align="left" alt="Gourav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
@@ -23,7 +23,7 @@
 
 Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a JavaScript Developer at Olecons Technology, Indore. Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/)
 
-Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
+Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Talking about Experiences:**
 - 💻 JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Present)
@@ -45,34 +45,16 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️�
 - 🏆 Best NCC Cadet Award at 1 MP AIR SQN NCC, Indore - Army Public School, Mhow
 - 🏆 1st position in National Level Drawing & Painting Competition - Army Public School, Mhow
 
-💬 Ask me about anything, I am happy to help
+💬 Ask me about anything, I am happy to help <br />
 📫 How to reach me: gouravhammad477@gmail.com
 
 **Languages and Tools:**
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 ![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&show_icons=true&hide_border=true)
-
-⭐️ Recent projects
-
-<a href="https://github.com/gouravhammad/Crafty-Gourav-Project">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Gouravhammad&repo=Crafty-Gourav-Project" />
-</a>
-
-<a href="https://github.com/RocketChat/Rocket.Chat.Android">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.Android" />
-</a>
-
-<a href="https://github.com/GOVINDDIXIT/chronos-localiser">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GOVINDDIXIT&repo=chronos-localiser" />
-</a>
-
-<a href="https://github.com/GOVINDDIXIT/Speaking-Silence">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GOVINDDIXIT&repo=Speaking-Silence" />
-</a>
-
-

@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a JavaScript Developer at Olecons Technology, Indore. Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/)
+Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a JavaScript Developer at [Olecons Technology](https://olecons.com/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/).
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 

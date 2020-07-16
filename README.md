@@ -1,6 +1,5 @@
 ### Hey 👋, I'm [Gourav](https://gouravhammad.herokuapp.com)
 
-
 <a href="https://twitter.com/gouravhammad">
   <img align="left" alt="Gourav Hammad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,63 +9,58 @@
 <a href="https://www.instagram.com/gouravhammad">
   <img align="left" alt="Gourav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://stackoverflow.com/users/8549281/govind-dixit/">
-  <img align="left" alt="Gourav StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://www.facebook.com/gouravhammad477/">
+  <img align="left" alt="Gourav StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://medium.com/@gouravhammmad">
-  <img align="left" alt="Gourav Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://www.youtube.com/channel/UCbLiJz8Td-XTjIt-7wxnNpw">
+  <img align="left" alt="Gourav's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://medium.com/@gouravhammad">
+  <img align="left" alt="Gourav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
 <br />
 
-Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a Software Engineer Intern 🙍🏽‍♂️ [@Headout](https://www.headout.com/) and GSoC'20 student under [@Rocket.Chat](https://rocket.chat/)
-
+Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a JavaScript Developer at Olecons Technology, Indore. Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/)
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️🗻.
 
-I would be honest, I once thought I got rabies from a squirrel 🐿️ that ate some of my sandwich 🥪.
+**Talking about Experiences:**
+- 💻 JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Present)
+- 💻 Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Present)
+- 💻 Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Present) 
+- 💻 Node.js Developer intern at [TDI](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)
+- 💻 MEAN Stack Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (May 2019 - Jun 2019)
+- 💻 Java Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (Dec 2018 - Jan 2019)
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
+**Talking about Top 10 Achievements:**
+- 🏆 3rd position in Location Services Hackathon organized by HERE Technologies and awarded by Rs. 20,000 - TechGig
+- 🏆 Secured amongst the Top 250 entries in #MJFCODE19 Hackathon - HackerEarth
+- 🏆 Internal Hackathon winner in Smart India Hackathon - SDBCT, Indore
+- 🏆 1st position in inter-college Website-App Presentation competition at Frequency 2020 - SDBCT, Indore
+- 🏆 1st position in inter-college Website and Mobile App Design competition at Urjotsav 2020 - PIEMR, Indore
+- 🏆 Secured among the Top 50 position in the Technical Scripter event - GeeksforGeeks
+- 🏆 Secured 1675 rating (3 Stars) on CodeChef - CodeChef
+- 🏆 1231th Global Rank on HackerEarth platform - HackerEarth
+- 🏆 Best NCC Cadet Award at 1 MP AIR SQN NCC, Indore - Army Public School, Mhow
+- 🏆 1st position in National Level Drawing & Painting Competition - Army Public School, Mhow
 
-
-**Talking about Personal Stuffs/Achievements:**
-
-- 🥇 I am a two time Google Summer of Code Student (19 & 20)  👨🏽‍💻 [@Rocket.Chat](https://rocket.chat/)
-- 🎓 Google Code In Mentor 👨🏽‍💼[@Tensorflow](https://www.tensorflow.org/) [@Mifos Initiative](https://mifos.org/) 
-- 👨‍💻 Software Developer Intern [@AntraxLabs](https://www.antraxlabs.com/)
-- 🌱 Former Lead at Developer Student Club [@DSCIIITL](http://dsciiitl.com/)
-- ⚡️ Co-Founder [Equinox](http://equinox-iiitl.tech/) and [Hackofiesta](https://github.com/hackofiesta)
-- 🤝 Microsoft Student Partner 
-- 🥇 Facebook Deep learning Scholarship Winner
-- :triangular_flag_on_post: Honorable mention at [ICPC'18](https://drive.google.com/file/d/1pNBPt9LTUPkG4xfAa52-Mxe06GZjCeuW/view)
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: govinddixit93@gmail.com
-
-&nbsp;
+💬 Ask me about anything, I am happy to help
+📫 How to reach me: gouravhammad477@gmail.com
 
 **Languages and Tools:**
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&show_icons=true&hide_border=true)
 
-![Govind's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&show_icons=true&hide_border=true)
+⭐️ Recent projects
 
-:pushpin: Liked this introduction, You can also made similar for yourself. Star and Fork this [README](https://github.com/GOVINDDIXIT/GOVINDDIXIT) :pencil:
-
-⭐️ Recent projects in which I have contributed [GOVINDDIXIT](https://github.com/GOVINDDIXIT)
-
-
-<a href="https://github.com/RocketChat/Rocket.Chat.ReactNative">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RocketChat&repo=Rocket.Chat.ReactNative" />
+<a href="https://github.com/gouravhammad/Crafty-Gourav-Project">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Gouravhammad&repo=Crafty-Gourav-Project" />
 </a>
 
 <a href="https://github.com/RocketChat/Rocket.Chat.Android">

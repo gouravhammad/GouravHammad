@@ -27,11 +27,11 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Talking about Experiences:**
 - 💻 JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Present)
-- 💻 Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Present)
-- 💻 Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Present) 
-- 💻 Node.js Developer intern at [TDI](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)
-- 💻 MEAN Stack Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (May 2019 - Jun 2019)
-- 💻 Java Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (Dec 2018 - Jan 2019)
+- 📑 Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Present)
+- ✍ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Present) 
+- ⚡ Node.js Developer intern at [TDI](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)
+- ⭐ MEAN Stack Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (May 2019 - Jun 2019)
+- ☕ Java Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (Dec 2018 - Jan 2019)
 
 **Talking about Top 10 Achievements:**
 - 🏆 3rd position in Location Services Hackathon organized by HERE Technologies and awarded by Rs. 20,000 - TechGig

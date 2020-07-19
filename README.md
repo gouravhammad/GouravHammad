@@ -9,6 +9,7 @@
 <a href="https://gouravhammad.herokuapp.com/"> <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
 <br>
 <br>
+<br>
 Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a JavaScript Developer at [Olecons Technology](https://olecons.com/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/).
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
@@ -33,7 +34,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 - 🏆 Best NCC Cadet Award at 1 MP AIR SQN NCC, Indore - Army Public School, Mhow
 - 🏆 1st position in National Level Drawing & Painting Competition - Army Public School, Mhow
 
-💬 Ask me about anything, I am happy to help <br />
+💬 Ask me about anything, I am happy to help. <br />
 📫 How to reach me: gouravhammad477@gmail.com
 
 **Languages and Tools:**

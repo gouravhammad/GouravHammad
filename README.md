@@ -9,8 +9,6 @@
 <a href="https://gouravhammad.herokuapp.com/"> <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
 <br>
 <br>
-<br>
-
 Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a JavaScript Developer at [Olecons Technology](https://olecons.com/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/).
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
@@ -47,4 +45,4 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&show_icons=true&hide_border=true)
+![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&show_icons=true)

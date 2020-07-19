@@ -1,23 +1,13 @@
 ### Hey 👋, I'm [Gourav](https://gouravhammad.herokuapp.com)
 
-<a href="https://twitter.com/gouravhammad">
-  <img align="left" alt="Gourav Hammad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gouravhammad">
-  <img align="left" alt="Gourav's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/gouravhammad">
-  <img align="left" alt="Gourav's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/gouravhammad477/">
-  <img align="left" alt="Gourav StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCbLiJz8Td-XTjIt-7wxnNpw">
-  <img align="left" alt="Gourav's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://medium.com/@gouravhammad477">
-  <img align="left" alt="Gourav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+<a href="https://www.linkedin.com/in/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href="https://twitter.com/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+<a href="https://www.facebook.com/gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+<a href="https://www.instagram.com/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+<a href="https://medium.com/@gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+<a href="https://www.youtube.com/channel/UCbLiJz8Td-XTjIt-7wxnNpw"> <img align="left" src="https://img.icons8.com/color/48/000000/youtube.png"></img></a>
+<a href="https://gouravhammad.herokuapp.com/"> <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
+
 <br />
 <br />
 

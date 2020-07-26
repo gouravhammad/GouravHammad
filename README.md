@@ -46,4 +46,6 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
-![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&show_icons=true)
+
+
+![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouravhammad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)

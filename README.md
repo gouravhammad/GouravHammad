@@ -15,7 +15,8 @@ Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Talking about Experiences:**
-- 💻 JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Present)
+- ✅ Software Developer intern at [HealthRx (Bajaj Finserv Health Limited)](https://healthrx.co.in/) (Aug 2020 - Present)
+- 💻 JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
 - 📑 Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Present)
 - ✍ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Present) 
 - ⚡ Node.js Developer intern at [TDI](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)

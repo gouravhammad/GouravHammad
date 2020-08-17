@@ -10,12 +10,12 @@
 <br>
 <br>
 <br>
-Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a Software Development Engineer intern at [HealthRx (Bajaj Finserv Health Limited)](https://healthrx.co.in/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/).
+Hi, I'm Gourav Hammad, a Full Stack developer 🚀 from India, Currently working as a Full Stack JavaScript Developer intern at [HealthRx (Bajaj Finserv Health Limited)](https://healthrx.co.in/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/).
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Talking about Experiences:**
-- ✅ Software Development Engineer intern at [HealthRx (Bajaj Finserv Health Limited)](https://healthrx.co.in/) (Aug 2020 - Present)
+- ✅ Full Stack JavaScript Developer intern at [HealthRx (Bajaj Finserv Health Limited)](https://healthrx.co.in/) (Aug 2020 - Present)
 - 💻 JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
 - 📑 Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Present)
 - ✍ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Present) 

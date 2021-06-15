@@ -10,18 +10,19 @@
 <br>
 <br>
 <br>
-I am a Full Stack developer 🚀 from India, Currently working as a Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/), [InterviewBit].
+I am a Full Stack developer 🚀 from India, Currently working as a Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/), [InterviewBit](https://www.interviewbit.com/).
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Talking about Experiences:**
-- ✅ SDE intern at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - June 2021)
-- 💻 JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
-- 📑 Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Present)
-- ✍ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Present) 
-- ⚡ Node.js Developer intern at [TDI](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)
-- ⭐ MEAN Stack Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (May 2019 - Jun 2019)
-- ☕ Java Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (Dec 2018 - Jan 2019)
+- ✅ Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/) (Jun 2021 - Present)
+- ✅ SDE intern at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - Jun 2021)
+- ✅ JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
+- ✅ Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Present)
+- ✅ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Present) 
+- ✅ Node.js Developer intern at [TDI](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)
+- ✅ MEAN Stack Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (May 2019 - Jun 2019)
+- ✅ Java Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (Dec 2018 - Jan 2019)
 
 **Talking about Top 5 Achievements:**
 - 🏆 3rd position in Location Services Hackathon organized by HERE Technologies and awarded by Rs. 20,000 - TechGig

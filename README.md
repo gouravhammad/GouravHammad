@@ -10,12 +10,12 @@
 <br>
 <br>
 <br>
-I am a Full Stack developer 🚀 from India, Currently working as a Full Stack JavaScript Developer intern at [HealthRx (Bajaj Finserv Health Limited)](https://healthrx.co.in/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/).
+I am a Full Stack developer 🚀 from India, Currently working as a Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/). Also I am a Technical Content Reviewer and Writer at [GeeksforGeeks](https://geeksforgeeks.org/), [InterviewBit].
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Talking about Experiences:**
-- ✅ Full Stack JavaScript Developer intern at [HealthRx (Bajaj Finserv Health Limited)](https://healthrx.co.in/) (Aug 2020 - Present)
+- ✅ SDE intern at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - June 2021)
 - 💻 JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
 - 📑 Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Present)
 - ✍ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Present) 

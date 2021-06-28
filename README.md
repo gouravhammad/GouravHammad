@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-I am a Full Stack developer 🚀 from India, Currently working as a Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/). I am a part of the DRx team and I work on the Bajaj Health care product i.e. DRx platform which contributes to providing Healthcare solutions. Tech Stack which I work upon is ReactJS and JavaScript.
+I am a Full Stack developer 🚀 from India, Currently working as a Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/). I am a part of the DRx team and I work on the Bajaj Health care product i.e. DRx platform which contributes to providing Healthcare solutions. Tech Stack which I currently work upon is ReactJS and JavaScript.
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 

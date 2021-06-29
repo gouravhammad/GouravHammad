@@ -14,13 +14,15 @@ I am a Full Stack developer 🚀 from India, Currently working as a Associate So
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
-**Talking about Experiences:**
+**Talking about Work Experiences:**
 - ✅ Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/) (Jun 2021 - Present)
-- ✅ SDE intern at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - Jun 2021)
-- ✅ Technical Content Writer at [InterviewBit](https://www.interviewbit.com/) (Jan 2021 - Jun 2021)
-- ✅ Technical Content Reviewer at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Jun 2021)
-- ✅ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Jun 2021) 
 - ✅ JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
+
+**Talking about Internship Experiences:**
+- ✅ SDE intern at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - Jun 2021)
+- ✅ Technical Content Writer (Part-time) at [InterviewBit](https://www.interviewbit.com/) (Jan 2021 - Jun 2021)
+- ✅ Technical Content Reviewer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Jun 2021)
+- ✅ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Jun 2021) 
 - ✅ Node.js Developer intern at [TDI](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)
 - ✅ MEAN Stack Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (May 2019 - Jun 2019)
 - ✅ Java Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (Dec 2018 - Jan 2019)

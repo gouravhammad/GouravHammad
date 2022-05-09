@@ -10,12 +10,12 @@
 <br>
 <br>
 <br>
-I am a Full Stack developer 🚀 from India, Currently working as a Software Developer at [Cars24](https://www.cars24.com/). I am a part of the Cars24 Australia team and I work on the next-generation eCommerce platform for pre-owned cars. Tech Stack which I currently work upon is ReactJS, HTML/CSS, TypeScript, NextJS and JavaScript.
+I am a Full Stack developer 🚀 from India, Currently working as a Software Engineer at [Cars24](https://www.cars24.com/). I am a part of the Cars24 Australia team and I work on the next-generation eCommerce platform for pre-owned cars. Tech Stack which I currently work upon is ReactJS, HTML/CSS, TypeScript, NextJS and JavaScript.
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Talking about Work Experiences:**
-- ✅ Software Developer at [Cars24](https://www.cars24.com/) (May 2022 - Present)
+- ✅ Software Engineer at [Cars24](https://www.cars24.com/) (May 2022 - Present)
 - ✅ Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/) (Jun 2021 - May 2022)
 - ✅ JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
 

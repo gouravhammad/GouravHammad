@@ -10,12 +10,13 @@
 <br>
 <br>
 <br>
-I am a Full Stack developer 🚀 from India, Currently working as a Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/). I am a part of the DRx team and I work on the Bajaj Health care product i.e. DRx platform which contributes to providing Healthcare solutions. Tech Stack which I currently work upon is ReactJS and JavaScript.
+I am a Full Stack developer 🚀 from India, Currently working as a Software Developer at [Cars24](https://www.cars24.com/). I am a part of the Cars24 Australia team and I work on the next-generation eCommerce platform for pre-owned cars. Tech Stack which I currently work upon is ReactJS, HTML/CSS, TypeScript, NextJS and JavaScript.
 
 Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Talking about Work Experiences:**
-- ✅ Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/) (Jun 2021 - Present)
+- ✅ Software Developer at [Cars24](https://www.cars24.com/) (May 2022 - Present)
+- ✅ Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/) (Jun 2021 - May 2022)
 - ✅ JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
 
 **Talking about Internship Experiences:**
@@ -39,7 +40,7 @@ Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
 
 **Languages and Tools:**  <br/> 
 <div align="left">  
-C, C++, Java (Spring + Hibernate), Python, JavaScript (ReactJS, NodeJS, SailsJS, ExpressJS), MongoDB, SQL, HTML, CSS, Bootstrap
+C, C++, Java (Spring + Hibernate), Python, JavaScript (ReactJS, NodeJS, NextJS, SailsJS, ExpressJS), TypeScript, MongoDB, SQL, HTML, CSS, Bootstrap
 </div>
 
 ![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 

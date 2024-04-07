@@ -10,14 +10,18 @@
 <br>
 <br>
 <br>
+
 I am a Frontend Engineer 🚀 from India with 4 Years of Experience in product-based companies, Currently working as a Software Development Engineer III at [Cars24](https://www.cars24.com/) where I work on Cars24 UAE which is the next-generation e-commerce platform for pre-owned cars. I specialize in JavaScript, ReactJS, NextJS, ReduxJS, HTML, CSS, and Webpack.
 
 Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
 
+<br/>
+
 **Talking about Work Experiences:**
 - ✅ Software Development Engineer III (Frontend) at [Cars24](https://www.cars24.com/) (May 2022 - Present)
-- ✅ Software Developer Engineer (Frontend) at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - May 2022)
+- ✅ Software Development Engineer (Frontend) at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - May 2022)
 
+<br/>
 
 **Talking about Internship & Free-Lancing Experiences:**
 - ✅ Technical Content Reviewer & Writer (Part-time) at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Jun 2021)
@@ -27,12 +31,16 @@ Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
 - ✅ MEAN Stack Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (May 2019 - Jun 2019)
 - ✅ Java Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (Dec 2018 - Jan 2019)
 
+<br/>
+
 **Talking about Top 5 Achievements:**
 - 🏆 3rd position in Location Services Hackathon organized by HERE Technologies and awarded Rs. 20,000 - TechGig
 - 🏆 Internal Hackathon winner in Smart India Hackathon - SDBCT, Indore
 - 🏆 Secured among the Top 50 position in the Technical Scripter event - GeeksforGeeks
 - 🏆 1st position in inter-college Website-App Presentation competition at Frequency 2020 - SDBCT, Indore
 - 🏆 1st position in inter-college Website and Mobile App Design competition at Urjotsav 2020 - PIEMR, Indore
+
+<br/>
 
 **Languages and Tools:**  <br/> 
 <div align="left">  
@@ -42,6 +50,8 @@ Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
  - **Developer Tools:** Azure, Git, GitHub, Jira, Bitbucket, Docker, A/B Testing, Google Search Console, Core Web Vitals Tool, etc.
 </div>
 
+<br/>
+
 ## My Recent Articles  
 <!-- BLOG-POST-LIST:START -->
 - [How to Integrate Stripe Payment Gateway in Node.js?](https://www.geeksforgeeks.org/how-to-integrate-stripe-payment-gateway-in-node-js/)
@@ -50,12 +60,14 @@ Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
 - [Sending SMS using NEXMO API in Node.js](https://www.geeksforgeeks.org/sending-sms-using-nexmo-api-in-node-js/)
 - [File uploading in Node.js](https://www.geeksforgeeks.org/file-uploading-in-node-js/)
 <!-- BLOG-POST-LIST:END -->  
-  
+
+<br/>
+
 💬 Ask me about anything, I am happy to help. <br />
 📫 How to reach me: gourav.hammad.sdbc@gmail.com
 
-
 <br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravhammad" alt="gouravhammad" /> </p>
 
 

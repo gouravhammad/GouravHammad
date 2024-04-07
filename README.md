@@ -10,43 +10,39 @@
 <br>
 <br>
 <br>
-I am a Full Stack developer 🚀 from India, Currently working as a Software Engineer at [Cars24](https://www.cars24.com/). I am a part of the Cars24 Australia team and I work on the next-generation eCommerce platform for pre-owned cars. Tech Stack which I currently work upon is ReactJS, HTML/CSS, TypeScript, NextJS and JavaScript.
+I am a Frontend Engineer 🚀 from India with 4 Years of Experience in product-based companies, Currently working as a Software Development Engineer III at [Cars24](https://www.cars24.com/) where I work on Cars24 UAE which is the next-generation e-commerce platform for pre-owned cars. I specialize in JavaScript, ReactJS, NextJS, ReduxJS, HTML, CSS, and Webpack.
 
-Beside's developing stuff, I enjoy listening music 🎧 and traveling 🏝️
+Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
 
 **Talking about Work Experiences:**
-- ✅ Software Engineer at [Cars24](https://www.cars24.com/) (May 2022 - Present)
-- ✅ Associate Software Developer at [Bajaj Finserv Health](https://healthrx.co.in/) (Jun 2021 - May 2022)
-- ✅ JavaScript Developer at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
+- ✅ Software Development Engineer III (Frontend) at [Cars24](https://www.cars24.com/) (May 2022 - Present)
+- ✅ Software Developer Engineer (Frontend) at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - May 2022)
 
-**Talking about Internship Experiences:**
-- ✅ SDE intern at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - Jun 2021)
+
+**Talking about Internship & Free-Lancing Experiences:**
+- ✅ Technical Content Reviewer & Writer (Part-time) at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Jun 2021)
 - ✅ Technical Content Writer (Part-time) at [InterviewBit](https://www.interviewbit.com/) (Jan 2021 - Jun 2021)
-- ✅ Technical Content Reviewer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (May 2020 - Jun 2021)
-- ✅ Technical Content Writer intern at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Jun 2021) 
-- ✅ Node.js Developer intern at [TDi (The Design Institute)](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)
+- ✅ JavaScript Developer (Part-time) at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
+- ✅ NodeJS Developer intern at [TDi (The Design Institute)](https://thedesigninstitute.in/) (Dec 2019 - Feb 2020)
 - ✅ MEAN Stack Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (May 2019 - Jun 2019)
 - ✅ Java Developer intern at [Mantic Technologies](https://www.linkedin.com/company/mantic-technologies/about/) (Dec 2018 - Jan 2019)
 
 **Talking about Top 5 Achievements:**
-- 🏆 3rd position in Location Services Hackathon organized by HERE Technologies and awarded by Rs. 20,000 - TechGig
+- 🏆 3rd position in Location Services Hackathon organized by HERE Technologies and awarded Rs. 20,000 - TechGig
 - 🏆 Internal Hackathon winner in Smart India Hackathon - SDBCT, Indore
 - 🏆 Secured among the Top 50 position in the Technical Scripter event - GeeksforGeeks
 - 🏆 1st position in inter-college Website-App Presentation competition at Frequency 2020 - SDBCT, Indore
 - 🏆 1st position in inter-college Website and Mobile App Design competition at Urjotsav 2020 - PIEMR, Indore
 
-💬 Ask me about anything, I am happy to help. <br />
-📫 How to reach me: gouravhammad477@gmail.com
-
 **Languages and Tools:**  <br/> 
 <div align="left">  
-C, C++, Java (Spring + Hibernate), Python, JavaScript (ReactJS, NodeJS, NextJS, SailsJS, ExpressJS), TypeScript, MongoDB, SQL, HTML, CSS, Bootstrap
+
+ - **Technical Skills:** JavaScript, TypeScript, HTML, CSS, Data Structures & Algorithms <br/> 
+ - **Framework/Libraries:** React.js, Next.js, Node.js, Express.js, Redux, React Query, Material UI, Webpack, Bootstrap, etc. <br/> 
+ - **Developer Tools:** Azure, Git, GitHub, Jira, Bitbucket, Docker, A/B Testing, Google Search Console, Core Web Vitals Tool, etc.
 </div>
 
-![Gourav's github stats](https://github-readme-stats.vercel.app/api?username=gouravhammad&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 
-
-
-## Recent Articles  
+## My Recent Articles  
 <!-- BLOG-POST-LIST:START -->
 - [How to Integrate Stripe Payment Gateway in Node.js?](https://www.geeksforgeeks.org/how-to-integrate-stripe-payment-gateway-in-node-js/)
 - [How to use express-validator for validation in Node.js?](https://medium.com/@gouravhammad477/validation-in-node-js-using-the-express-validator-module-cd815ec082f1)
@@ -55,5 +51,11 @@ C, C++, Java (Spring + Hibernate), Python, JavaScript (ReactJS, NodeJS, NextJS, 
 - [File uploading in Node.js](https://www.geeksforgeeks.org/file-uploading-in-node-js/)
 <!-- BLOG-POST-LIST:END -->  
   
+💬 Ask me about anything, I am happy to help. <br />
+📫 How to reach me: gourav.hammad.sdbc@gmail.com
+
+
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gouravhammad" alt="gouravhammad" /> </p>
+
+

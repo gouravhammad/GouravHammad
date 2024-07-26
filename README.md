@@ -18,7 +18,7 @@ Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
 <br/>
 
 **Talking about Work Experiences:**
-- ✅ Senior Software Engineer I (Frontend) at [CoinDCX]([https://www.cars24.com/] (May 2024 - Present)
+- ✅ Senior Software Engineer I (Frontend) at [CoinDCX](https://www.coindcx.com/) (May 2024 - Present)
 - ✅ Software Development Engineer III (Frontend) at [Cars24](https://www.cars24.com/) (May 2022 - May 2024)
 - ✅ Software Development Engineer (Frontend) at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - May 2022)
 

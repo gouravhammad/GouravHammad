@@ -11,7 +11,7 @@
 <br>
 <br>
 
-I am a Frontend Engineer 🚀 from India with 4+ Years of Experience in product-based companies, Currently working as a Senior Software Engineer I (Frontend) at [CoinDCX]([https://www.cars24.com/](https://coindcx.com/)) where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
+I am a Frontend Engineer 🚀 from India with 5+ Years of Experience in product-based companies. Currently working as a Senior Software Engineer I (Frontend) at [CoinDCX]([https://www.cars24.com/](https://coindcx.com/)), where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
 
 Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
 

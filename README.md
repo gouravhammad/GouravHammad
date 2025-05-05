@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Gourav Hammad](https://gouravhammad.herokuapp.com)
+### Hey 👋, I'm **[Gourav Hammad](https://gouravhammad.herokuapp.com)**
 
 <a href="https://www.linkedin.com/in/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 <a href="https://twitter.com/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
@@ -6,25 +6,28 @@
 <a href="https://www.instagram.com/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 <a href="https://medium.com/@gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 <a href="https://www.youtube.com/channel/UCbLiJz8Td-XTjIt-7wxnNpw"> <img align="left" src="https://img.icons8.com/color/48/000000/youtube.png"></img></a>
-<a href="https://gouravhammad.herokuapp.com/"> <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
 <br>
 <br>
 <br>
 
-I am a Frontend Engineer 🚀 from India with 5+ Years of Experience in product-based companies. Currently working as a Senior Software Engineer I (Frontend) at [CoinDCX]([https://www.cars24.com/](https://coindcx.com/)), where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
+I am a **Senior Frontend Engineer** 🚀 from India with **5+ Years of Experience** in product-based companies. Currently working as a **Senior Software Engineer I (Frontend) at [CoinDCX](https://coindcx.com/)**, where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
 
-Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
+💡 I specialize in building **modular React applications**, optimizing **web performance**, and improving **developer experience** using the latest tech tools and frameworks. <br /> <br />
+Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️ <br />
 
 <br/>
 
-**Talking about Work Experiences:**
-- ✅ Senior Software Engineer I (Frontend) at [CoinDCX](https://www.coindcx.com/) (May 2024 - Present)
-- ✅ Software Development Engineer III (Frontend) at [Cars24](https://www.cars24.com/) (May 2022 - May 2024)
-- ✅ Software Development Engineer (Frontend) at [Bajaj Finserv Health](https://healthrx.co.in/) (Aug 2020 - May 2022)
+**💼 Work Experience**
+| Company                                         | Role                                      | Duration            |
+| ----------------------------------------------- | ----------------------------------------- | ------------------- |
+| [CoinDCX](https://www.coindcx.com/)             | **Senior Software Engineer I (Frontend)** | May 2024 – Present  |
+| [Cars24](https://www.cars24.com/)               | **SDE III (Frontend)**                    | May 2022 – May 2024 |
+| [Bajaj Finserv Health](https://healthrx.co.in/) | **SDE (Frontend)**                        | Aug 2020 – May 2022 |
+
 
 <br/>
 
-**Talking about Internship & Free-Lancing Experiences:**
+**🛠️ Freelance & Internship Experience**
 - ✅ Technical Content Reviewer & Writer (Part-time) at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Jun 2021)
 - ✅ Technical Content Writer (Part-time) at [InterviewBit](https://www.interviewbit.com/) (Jan 2021 - Jun 2021)
 - ✅ JavaScript Developer (Part-time) at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
@@ -34,26 +37,30 @@ Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
 
 <br/>
 
-**Talking about Top 5 Achievements:**
-- 🏆 3rd position in Location Services Hackathon organized by HERE Technologies and awarded Rs. 20,000 - TechGig
-- 🏆 Internal Hackathon winner in Smart India Hackathon - SDBCT, Indore
-- 🏆 Secured among the Top 50 position in the Technical Scripter event - GeeksforGeeks
-- 🏆 1st position in inter-college Website-App Presentation competition at Frequency 2020 - SDBCT, Indore
-- 🏆 1st position in inter-college Website and Mobile App Design competition at Urjotsav 2020 - PIEMR, Indore
+**🏆 Top 5 Achievements**
+- 🥉 3rd Place – HERE Technologies Location Services Hackathon – ₹20,000 prize (TechGig)
+- 🥇 Winner – Internal Hackathon (Smart India Hackathon @ SDBCT Indore)
+- 🏅 Top 50 – Technical Scripter event (GeeksforGeeks)
+- 🥇 1st Place – Inter-college Website Presentation @ Frequency 2020 (SDBCT Indore)
+- 🥇 1st Place – Website/App Design Competition @ Urjotsav 2020 (PIEMR Indore)
+
+
 
 <br/>
 
-**Languages and Tools:**  <br/> 
+**🧠 Tech Stack & Expertise**  <br/> 
 <div align="left">  
 
- - **Technical Skills:** JavaScript, TypeScript, HTML, CSS, Data Structures & Algorithms <br/> 
- - **Framework/Libraries:** React.js, Next.js, Node.js, Express.js, Redux, React Query, Material UI, Webpack, Bootstrap, etc. <br/> 
- - **Developer Tools:** Azure, Git, GitHub, Jira, Bitbucket, Docker, A/B Testing, Google Search Console, Core Web Vitals Tool, etc.
+
+ - **Frontend:** ReactJS ⚛️, Next.js 🚀, Redux, React Query, Webpack, Bootstrap, Material UI, Tailwind CSS <br/> 
+ - **Backend:** Node.js, Express.js <br/> 
+ - **Dev Tools:** Git, GitHub, Bitbucket, Docker, Postman, Jira, Azure, Google Search Console <br/> 
+ - **Core Skills:** System Design, UI Architecture, Web Accessibility, SEO Optimization, A/B Testing, Code Reviews 
 </div>
 
 <br/>
 
-## My Recent Articles  
+## 📰 Latest Articles 
 <!-- BLOG-POST-LIST:START -->
 - [How to Integrate Stripe Payment Gateway in Node.js?](https://www.geeksforgeeks.org/how-to-integrate-stripe-payment-gateway-in-node-js/)
 - [How to use express-validator for validation in Node.js?](https://medium.com/@gouravhammad477/validation-in-node-js-using-the-express-validator-module-cd815ec082f1)
@@ -64,7 +71,8 @@ Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️
 
 <br/>
 
-💬 Ask me about anything, I am happy to help. <br />
+## 📫 Let’s Connect!
+💬 Feel free to reach out — I’m always happy to help or collaborate on exciting frontend projects! <br />
 📫 How to reach me: gourav.hammad.sdbc@gmail.com
 
 <br />

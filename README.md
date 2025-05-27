@@ -12,8 +12,16 @@
 
 I am a **Senior Frontend Engineer** 🚀 from India with **5+ Years of Experience** in product-based companies. Currently working as a **Senior Software Engineer I (Frontend) at [CoinDCX](https://coindcx.com/)**, where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
 
-💡 I specialize in building **modular React applications**, optimizing **web performance**, and improving **developer experience** using the latest tech tools and frameworks. <br /> <br />
-Besides developing stuff, I enjoy listening to music 🎧 and traveling 🏝️ <br />
+💡 I specialize in building **modular React applications**, optimizing **web performance**, and improving **developer experience** using the latest tech tools and frameworks. <br />
+
+Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲𝗻𝘁 𝗰𝗿𝗲𝗮𝘁𝗼𝗿, and 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆 𝗯𝘂𝗶𝗹𝗱𝗲𝗿:
+- 🌟 𝗛𝗲𝗹𝗽𝗲𝗱 𝟭𝟱𝟬+ 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝘀 land their 𝗳𝗶𝗿𝘀𝘁 𝗷𝗼𝗯 𝗶𝗻 𝗳𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 through 𝗺𝗲𝗻𝘁𝗼𝗿𝘀𝗵𝗶𝗽 and 𝗴𝘂𝗶𝗱𝗮𝗻𝗰𝗲.
+- 🚀 𝗙𝗼𝘂𝗻𝗱𝗲𝗿 of the 𝗣𝗲𝗵𝗹𝗲 𝗔𝗮𝗽🌸 [𝗟𝗶𝗻𝗸𝗲𝗱𝗜𝗻](https://www.linkedin.com/groups/14608996/) & 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗔𝗿𝗺𝘆 [𝗠𝗲𝗱𝗶𝘂𝗺](https://medium.com/frontend-army) 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆, dedicated to 𝗵𝗲𝗹𝗽𝗶𝗻𝗴 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝘀 𝗴𝗿𝗼𝘄 and excel in their careers.
+- 📙 Published 𝟴𝟳𝟳+ 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗮𝗿𝘁𝗶𝗰𝗹𝗲𝘀 on platforms like 𝗚𝗲𝗲𝗸𝘀𝗙𝗼𝗿𝗚𝗲𝗲𝗸𝘀, 𝗠𝗲𝗱𝗶𝘂𝗺, and 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄𝗕𝗶𝘁, impacting thousands of developers globally.
+- ⭐ 𝗚𝗼𝗼𝗴𝗹𝗲 𝟲-𝗦𝘁𝗮𝗿 𝗥𝗲𝘃𝗶𝗲𝘄𝗲𝗿 with 𝟱𝟬𝟬+ 𝗰𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀 and 𝟭𝟮𝟱𝗞+ 𝘃𝗶𝗲𝘄𝘀, sharing valuable insights to improve businesses.
+- 💁🏻‍♂️ 𝗔𝗰𝘁𝗶𝘃𝗲 𝗮𝗱𝘃𝗼𝗰𝗮𝘁𝗲 𝗳𝗼𝗿 𝗜𝗻𝗱𝗼𝗿𝗲’𝘀 𝘁𝗲𝗰𝗵 𝗴𝗿𝗼𝘄𝘁𝗵.
+
+
 
 <br/>
 

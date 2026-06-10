@@ -10,7 +10,7 @@
 <br>
 <br>
 
-I am a **Senior Frontend Engineer** 🚀 from India with **5+ Years of Experience** in product-based companies. Currently working as a **Senior Software Engineer I (Frontend) at [CoinDCX](https://coindcx.com/)**, where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
+I am a **Senior Frontend Engineer** 🚀 from India with **6+ Years of Experience** in product-based companies. Currently working as a **Senior Software Engineer I (Frontend) at [CoinDCX](https://coindcx.com/)**, where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
 
 💡 I specialize in building **modular React applications**, optimizing **web performance**, and improving **developer experience** using the latest tech tools and frameworks. <br />
 

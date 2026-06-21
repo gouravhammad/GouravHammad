@@ -24,7 +24,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-**Work Experience**
+## Work Experience
 | Company                                         | Role                                      | Duration            |
 | ----------------------------------------------- | ----------------------------------------- | ------------------- |
 | [CoinDCX](https://www.coindcx.com/)             | **Senior Software Engineer I (Frontend)** | May 2024 – Present  |
@@ -34,7 +34,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-**Freelance & Internship Experience**
+## Internship & Freelance Experience
 - ✅ Technical Content Reviewer & Writer (Part-time) at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Jun 2021)
 - ✅ Technical Content Writer (Part-time) at [InterviewBit](https://www.interviewbit.com/) (Jan 2021 - Jun 2021)
 - ✅ JavaScript Developer (Part-time) at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
@@ -44,7 +44,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-**Top 5 Achievements**
+## Top 5 Achievements
 - 🥉 3rd Place – HERE Technologies Location Services Hackathon – ₹20,000 prize (TechGig)
 - 🥇 Winner – Internal Hackathon (Smart India Hackathon @ SDBCT Indore)
 - 🏅 Top 50 – Technical Scripter event (GeeksforGeeks)
@@ -55,7 +55,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-**Tech Stack & Expertise**  <br/> 
+## Tech Stack & Expertise
 <div align="left">  
 
 

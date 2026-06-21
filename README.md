@@ -1,4 +1,4 @@
-### Hey 👋, I'm Gourav Hammad
+### Hey 👋, I'm **Gourav Hammad**
 
 <a href="https://www.linkedin.com/in/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
 <a href="https://medium.com/@gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>

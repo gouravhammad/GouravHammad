@@ -1,10 +1,10 @@
-### Hey 👋, I'm **[Gourav Hammad](https://gouravhammad.herokuapp.com)**
+### Hey 👋, I'm Gourav Hammad
 
 <a href="https://www.linkedin.com/in/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+<a href="https://medium.com/@gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 <a href="https://twitter.com/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
 <a href="https://www.facebook.com/gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 <a href="https://www.instagram.com/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
-<a href="https://medium.com/@gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
 <br>
 <br>
 <br>

@@ -5,12 +5,11 @@
 <a href="https://www.facebook.com/gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
 <a href="https://www.instagram.com/gouravhammad"> <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
 <a href="https://medium.com/@gouravhammad477"> <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
-<a href="https://www.youtube.com/channel/UCbLiJz8Td-XTjIt-7wxnNpw"> <img align="left" src="https://img.icons8.com/color/48/000000/youtube.png"></img></a>
 <br>
 <br>
 <br>
 
-I am a **Senior Frontend Engineer** 🚀 from India with **6+ Years of Experience** in product-based companies. Currently working as a **Senior Software Engineer I (Frontend) at [CoinDCX](https://coindcx.com/)**, where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
+I am a **Senior Frontend Engineer** from India with **6+ Years of Experience** in product-based companies. Currently working as a **Senior Software Engineer I (Frontend) at [CoinDCX](https://coindcx.com/)**, where I work on the CoinDCX platform, India's most valuable crypto investment app. I specialize in JavaScript, ReactJS, NextJS, TypeScript, ReduxJS, HTML, CSS, and Webpack.
 
 I specialize in building **modular React applications**, optimizing **web performance**, and improving **developer experience** using the latest tech tools and frameworks. <br />
 
@@ -25,7 +24,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-**💼 Work Experience**
+**Work Experience**
 | Company                                         | Role                                      | Duration            |
 | ----------------------------------------------- | ----------------------------------------- | ------------------- |
 | [CoinDCX](https://www.coindcx.com/)             | **Senior Software Engineer I (Frontend)** | May 2024 – Present  |
@@ -35,7 +34,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-**🛠️ Freelance & Internship Experience**
+**Freelance & Internship Experience**
 - ✅ Technical Content Reviewer & Writer (Part-time) at [GeeksforGeeks](https://geeksforgeeks.org/) (Apr 2020 - Jun 2021)
 - ✅ Technical Content Writer (Part-time) at [InterviewBit](https://www.interviewbit.com/) (Jan 2021 - Jun 2021)
 - ✅ JavaScript Developer (Part-time) at [Olecons Technology](https://olecons.com/) (Feb 2020 - Aug 2020)
@@ -45,7 +44,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-**🏆 Top 5 Achievements**
+**Top 5 Achievements**
 - 🥉 3rd Place – HERE Technologies Location Services Hackathon – ₹20,000 prize (TechGig)
 - 🥇 Winner – Internal Hackathon (Smart India Hackathon @ SDBCT Indore)
 - 🏅 Top 50 – Technical Scripter event (GeeksforGeeks)
@@ -56,11 +55,11 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-**🧠 Tech Stack & Expertise**  <br/> 
+**Tech Stack & Expertise**  <br/> 
 <div align="left">  
 
 
- - **Frontend:** ReactJS ⚛️, Next.js 🚀, Redux, React Query, Webpack, Bootstrap, Material UI, Tailwind CSS <br/> 
+ - **Frontend:** ReactJS, Next.js, Redux, React Query, Webpack, Bootstrap, Material UI, Tailwind CSS <br/> 
  - **Backend:** Node.js, Express.js <br/> 
  - **Dev Tools:** Git, GitHub, Bitbucket, Docker, Postman, Jira, Azure, Google Search Console <br/> 
  - **Core Skills:** System Design, UI Architecture, Web Accessibility, SEO Optimization, A/B Testing, Code Reviews 
@@ -68,7 +67,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-## 📰 Latest Articles 
+## Latest Articles 
 <!-- BLOG-POST-LIST:START -->
 - [How to Integrate Stripe Payment Gateway in Node.js?](https://www.geeksforgeeks.org/how-to-integrate-stripe-payment-gateway-in-node-js/)
 - [How to use express-validator for validation in Node.js?](https://medium.com/@gouravhammad477/validation-in-node-js-using-the-express-validator-module-cd815ec082f1)
@@ -79,7 +78,7 @@ Beyond just writing code, I am a 𝗺𝗲𝗻𝘁𝗼𝗿, 𝗰𝗼𝗻𝘁𝗲�
 
 <br/>
 
-## 📫 Let’s Connect!
+## Let’s Connect!
 💬 Feel free to reach out — I’m always happy to help or collaborate on exciting frontend projects! <br />
 📫 How to reach me: gourav.hammad.sdbc@gmail.com
 
